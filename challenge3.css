@@ -1,0 +1,15 @@
+#button{
+    background-color: white;
+    font-size: small;
+    text-align: left;
+} 
+.card{
+    margin-left: 20px;
+}
+@media screen and(max-width:700px){
+    .col-3{
+        display: none;
+    }
+}
+
+    
